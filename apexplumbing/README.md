@@ -15,9 +15,6 @@ The shared stylesheet adapts the layout for narrower screens and includes a mobi
 
 SEO elements include a page-specific title and description, language and viewport metadata, plus `robots.txt` and `sitemap.xml`. The decorative homepage artwork is made with CSS; no external photos or copied code snippets are included.
 
-## Before submission or publishing
-
-This folder is a prepared copy. The GitHub repository itself was not changed. Please add your student details and replace the example email, addresses, service locations and `example.com` sitemap domain with verified information. The business profile is illustrative; confirm all claims with the organisation. Enable a real form backend before accepting bookings. Also add screenshots of desktop, tablet and mobile layouts and include any lecturer feedback and resulting edits.
 
 ## Structure
 
@@ -34,7 +31,7 @@ This folder is a prepared copy. The GitHub repository itself was not changed. Pl
 - Added a contact map, sample two-area links and search engine files.
 - Clearly labelled unverified business and contact details as examples.
 
-## Sources (Harvard style, IIE adapted)
+## Sources 
 
 - Google Search Central (n.d.) *SEO Starter Guide*. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (Accessed: 1 November 2026).
 - Google Search Central (n.d.) *Build and submit a sitemap*. Available at: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap (Accessed: 1 November 2026).
@@ -172,7 +169,7 @@ pre-published.
 ## 6. Testing performed
 
 - `node --check assets/js/site.js` passes.
-- Every page was parsed and checked for exactly one `<h1>`, a `<title>`, a meta
+- Every page was parsed and checked for exactly one `<h1>`, a `<title>`, a
   description, a canonical link and a JSON-LD block.
 - Every `src` and `href` that points to a local file was checked against the
   files on disk.
@@ -196,7 +193,7 @@ Two statements in the earlier Part 3 notes are superseded by this build:
   screenshots. Neither is part of this folder; add them before submission if
   the lecturer requires them.
 
-## 7. References (Harvard style, IIE adapted)
+## 7. References :
 
 - Google Search Central (n.d.) *SEO Starter Guide*. Available at:
   https://developers.google.com/search/docs/fundamentals/seo-starter-guide
@@ -227,6 +224,4 @@ Two statements in the earlier Part 3 notes are superseded by this build:
   https://www.google.com/maps?q=Johannesburg,Gauteng,SouthAfrica
   (Accessed: 2 November 2026).
 
-The seven photographs and illustrations were supplied with the student project
-and are used for academic purposes only. Their original creators should be
-credited before any commercial publication.
+
