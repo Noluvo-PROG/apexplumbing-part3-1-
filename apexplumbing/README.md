@@ -23,7 +23,7 @@ SEO elements include a page-specific title and description, language and viewpor
 - `assets/js/site.js` — menu, search and form interactions
 - `robots.txt`, `sitemap.xml` — update sitemap URLs after choosing a domain
 
-## Change log — Part 3, 1 November 2026
+## Change log — Part 3
 
 - Replaced planning notes and invalid markup on the home page with customer-facing content and service links.
 - Added accessible service search and responsive mobile navigation.
@@ -33,11 +33,11 @@ SEO elements include a page-specific title and description, language and viewpor
 
 ## Sources 
 
-- Google Search Central (n.d.) *SEO Starter Guide*. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (Accessed: 1 November 2026).
-- Google Search Central (n.d.) *Build and submit a sitemap*. Available at: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap (Accessed: 1 November 2026).
-- MDN Web Docs (n.d.) *Constraint validation*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation (Accessed: 1 November 2026).
-- MDN Web Docs (n.d.) *Using media queries*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries (Accessed: 1 November 2026).
-- W3C (2023) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 1 November 2026).
+- Google Search Central *SEO Starter Guide*. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide 
+- Google Search Central *Build and submit a sitemap*. Available at: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap 
+- MDN Web Docs *Constraint validation*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation 
+- MDN Web Docs *Using media queries*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries 
+- W3C (2023) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/
 
 ## Viewing the site
 
@@ -75,7 +75,7 @@ site is deployed. The earlier Part 3 notes above are kept for history.
 | Google Maps embed | `contact.html` |
 | YouTube embed | `about.html` |
 
-## 2. Changelog — Part 3, 2 November 2026
+## 2. Changelog — Part 3
 
 - Created `assets/css/styles.css` with the full visual system for all five pages:
   deep blue, steel grey and warm amber palette, fluid type scale, cards, service
@@ -195,33 +195,33 @@ Two statements in the earlier Part 3 notes are superseded by this build:
 
 ## 7. References :
 
-- Google Search Central (n.d.) *SEO Starter Guide*. Available at:
+- Google Search Central *SEO Starter Guide*. Available at:
   https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-  (Accessed: 2 November 2026).
-- Google Search Central (n.d.) *Build and submit a sitemap*. Available at:
+  
+- Google Search Central *Build and submit a sitemap*. Available at:
   https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
-  (Accessed: 2 November 2026).
-- MDN Web Docs (n.d.) *Constraint validation*. Available at:
+ 
+- MDN Web Docs *Constraint validation*. Available at:
   https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation
-  (Accessed: 2 November 2026).
-- MDN Web Docs (n.d.) *Intersection Observer API*. Available at:
+  
+- MDN Web Docs *Intersection Observer API*. Available at:
   https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-  (Accessed: 2 November 2026).
-- MDN Web Docs (n.d.) *Using the Fetch API*. Available at:
+  
+- MDN Web Docs *Using the Fetch API*. Available at:
   https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-  (Accessed: 2 November 2026).
-- MDN Web Docs (n.d.) *Using media queries*. Available at:
+  
+- MDN Web Docs *Using media queries*. Available at:
   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
-  (Accessed: 2 November 2026).
-- Schema.org (n.d.) *Plumber*. Available at: https://schema.org/Plumber
-  (Accessed: 2 November 2026).
+  
+- Schema.org  *Plumber*. Available at: https://schema.org/Plumber
+ 
 - W3C (2023) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at:
-  https://www.w3.org/TR/WCAG22/ (Accessed: 2 November 2026).
+  https://www.w3.org/TR/WCAG22/ 
 - KG Hub / Kingsgate Luxury Homes (n.d.) *Essential Plumbing Maintenance
   Checklist* [YouTube video]. Available at:
-  https://www.youtube.com/watch?v=a5BwAxdb3Lk (Accessed: 2 November 2026).
-- Google Maps (n.d.) *Johannesburg, Gauteng, South Africa* [map]. Available at:
+  https://www.youtube.com/watch?v=a5BwAxdb3Lk 
+- Google Maps  *Johannesburg, Gauteng, South Africa* [map]. Available at:
   https://www.google.com/maps?q=Johannesburg,Gauteng,SouthAfrica
-  (Accessed: 2 November 2026).
+ 
 
 
