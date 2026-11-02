@@ -1,0 +1,17 @@
+# Netlify configuration for the Apex Plumbing static site.
+# The site has no build step: publish the folder as it is.
+
+[build]
+  publish = "."
+
+# Security headers. The CSP keeps the Google Maps iframe and the
+# YouTube embed working while blocking everything else.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self'; frame-src 'self' https://www.google.com https://maps.google.com https://www.youtube.com https://www.youtube-nocookie.com; form-action 'self' mailto:; frame-ancestors 'self'; upgrade-insecure-requests"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"

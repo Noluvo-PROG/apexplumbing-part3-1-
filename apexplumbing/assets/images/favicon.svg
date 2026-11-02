@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Apex Plumbing">
+  <rect width="64" height="64" rx="14" fill="#0b2545"/>
+  <path d="M32 10c8 10 14 17 14 25a14 14 0 0 1-28 0c0-8 6-15 14-25z" fill="#f2a65a"/>
+  <path d="M32 26c3.5 4.5 6 7.5 6 11a6 6 0 0 1-12 0c0-3.5 2.5-6.5 6-11z" fill="#0b2545"/>
+</svg>

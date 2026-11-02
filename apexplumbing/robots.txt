@@ -1,0 +1,7 @@
+# Apex Plumbing & Drainage Solutions — robots.txt
+# Allow every crawler; nothing on this public site is private.
+User-agent: *
+Allow: /
+
+# Absolute sitemap URL for the GitHub Pages deployment.
+Sitemap: https://noluvo-prog.github.io/GitHub/apexplumbing/sitemap.xml
